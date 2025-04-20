@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello, World from CMake - first change" << std::endl;
+    std::cout << "Hello, World from CMake - first change123" << std::endl;
     return 0;
 }
